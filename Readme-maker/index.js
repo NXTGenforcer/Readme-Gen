@@ -65,7 +65,7 @@ function writeToFile(answers) {
   return `# ${answers.title}:
 ## Description
 ${answers.description}
-## Installation Instuctions
+## Installation Instructions
 ${answers.installationInstructions}
 ## Usage Information
 ${answers.usageInformation}
